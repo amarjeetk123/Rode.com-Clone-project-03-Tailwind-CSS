@@ -1,16 +1,24 @@
-#  RØDE.headphones website  Clone Project-3-Tailwind CSS 
+#  RØDE Microphones Website Home Page Clone Project-3-Tailwind CSS 
 
 ![](https://img.shields.io/badge/Project-03-green)
 ![](https://img.shields.io/badge/HTML-5-orange)
 ![](https://img.shields.io/badge/Tailwind-CSS-red)
 ![](https://img.shields.io/badge/CSS-3-blue)
 
+## Technology Used
+ - ` HTML `
+ - ` Tailwind `
+ - ` CSS `
 
-### Mostly I used Tailwind CSS for this project.
 
-### My Website is Fully Responsive , you can view in mobile , tab or desktop.
+### Mostly I used Tailwind for this project.
 
-[Live Link](https://rode-headphones-home-page-clone.netlify.app/)
+## My Website is Fully Responsive , you can view in mobile , tab or desktop.
+### Original Website link
+ - [RØDE Microphones](https://rode.com/en)
+
+### Clone Website link
+ - [RØDE Microphones](https://rode-headphones-home-page-clone.netlify.app/)
 
 ![Picture of my Project ](./images/web-page.jpg)
 
